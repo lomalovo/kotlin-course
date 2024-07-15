@@ -1,0 +1,1 @@
+rootProject.name = "oop-2021-collections"
